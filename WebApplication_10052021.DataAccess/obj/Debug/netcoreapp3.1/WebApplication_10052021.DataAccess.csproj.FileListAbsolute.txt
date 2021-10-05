@@ -1,0 +1,10 @@
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\bin\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.deps.json
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\bin\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.dll
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\bin\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.pdb
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.AssemblyInfoInputs.cache
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.AssemblyInfo.cs
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.dll
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.pdb
+C:\Users\arathod\Desktop\Amol\Practice\WebApplication_10052021\WebApplication_10052021.DataAccess\obj\Debug\netcoreapp3.1\WebApplication_10052021.DataAccess.csproj.AssemblyReference.cache
